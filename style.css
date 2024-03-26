@@ -1,0 +1,34 @@
+.Registration form{
+  width: 200px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+button{
+color: rgb(255, 0, 0);
+background-color: rgb(217, 181, 252);
+border-style: none;
+font-weight: 600;
+font-size: 15px;
+padding: 4px 10px;
+margin: 15 auto;
+cursor: pointer;
+border-radius: 4px;
+}
+
+button:hover{
+color: black;
+
+}
+
+.container label{
+  color: rgba(0, 0, 0, 0.582);
+  font-size: 17px;
+  font-weight: bold;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
