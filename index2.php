@@ -7,9 +7,6 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  
-</body>
-</html>
 
 <div class="Registration form">
   <form action="./form.php"
@@ -29,3 +26,8 @@
     <button>Submit</button>
   </form>
 </div>
+
+</body>
+</html>
+
+
